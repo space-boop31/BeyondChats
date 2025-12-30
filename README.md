@@ -202,9 +202,7 @@ BeyondChats/
 - The enhancement script includes delays to avoid rate limiting
 - SQLite database file (`articles.db`) will be created automatically on first run
 
-## Live Link
 
-[Add your live frontend link here after deployment]
 
 ## License
 
